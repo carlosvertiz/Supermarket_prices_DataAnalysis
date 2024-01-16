@@ -1,5 +1,5 @@
 ## Description
-Comparative analysis of super markets data. I wanted to know which supermarket have better prices and how inflation impact in prices.
+Comparative analysis of supermarkets' data. I wanted to know which supermarket have better prices and how inflation impact in prices.
 The notebook has dash elements, it has to be run locally to see the dashboards. In the pdf file you can see the statics dashboards.
 
 ## Author
